@@ -9,4 +9,4 @@ elif traps == "it depends":
 else:
 	print("Come back when you thought of a decision.")
 	
-"This code works so use it if you want"
+#This code works so use it if you want
